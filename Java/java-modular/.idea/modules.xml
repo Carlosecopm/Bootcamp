@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aula.modular.main/aula.modular.main.iml" filepath="$PROJECT_DIR$/aula.modular.main/aula.modular.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula.modular.utils/aula.modular.utils.iml" filepath="$PROJECT_DIR$/aula.modular.utils/aula.modular.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-modular.iml" filepath="$PROJECT_DIR$/java-modular.iml" />
+    </modules>
+  </component>
+</project>
